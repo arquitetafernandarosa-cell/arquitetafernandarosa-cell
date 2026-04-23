@@ -70,32 +70,32 @@ Minha trajetória me trouxe uma forte base em organização de processos, visão
           
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Trello"
+    title="Trello" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Notion"
+    title="Notion" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Jira" 
+    title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Figma"
+    title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
